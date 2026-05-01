@@ -76,6 +76,8 @@ npm run build
 
 This project can be deployed to Vercel using a root `vercel.json` configuration. The backend is configured as a serverless function and the frontend is built from `client/`.
 
+Live demo: https://taskforge-olive.vercel.app/
+
 ### Production start
 
 ```bash
