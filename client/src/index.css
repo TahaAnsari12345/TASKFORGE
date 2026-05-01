@@ -39,6 +39,11 @@
   --radius-2xl: 24px;
 }
 
+.highlight-author {
+  color: var(--purple-bright);
+  font-weight: 700;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;

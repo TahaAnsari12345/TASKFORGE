@@ -63,7 +63,7 @@ function LoginPage() {
         </div>
 
         <div className="auth-footer">
-          © 2026 TaskForge. Built for teams.
+          © 2026 TaskForge. Built for teams. Built by <span className="highlight-author">Taha Ansari</span>.
         </div>
       </div>
 
